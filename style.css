@@ -89,3 +89,8 @@ footer {
 footer > ul > li{
 	list-style-type: none;
 }
+@media screen and (max-width: 900px) {
+	h1{
+		background-color: yellow;
+	}
+}
