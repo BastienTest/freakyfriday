@@ -103,7 +103,7 @@ footer > ul > li{
 		display: block;
 	}
 	.nav {
-		display: block;
+		display: inline-block;
 	}
 	nav .desktop{
 		display: none;
