@@ -14,9 +14,10 @@ header {
 h1 {
 	text-align: center;
 	position: relative;
-	top: 50px;
-	color: red;
-	font-size: 80px;	 
+	top: 0px;
+	color: magenta;
+	font-size: 80px;
+	background-color:black;	
 }
 
 a{
@@ -26,7 +27,7 @@ a{
 body{
 	font-size: 18px;
 	font-family: times, times new roman;
-	padding:0px;
+	padding:0 30px;
 	margin:0px;
 }
 
